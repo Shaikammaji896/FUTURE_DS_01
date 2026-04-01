@@ -44,5 +44,5 @@ This project is a real-world sales data analysis task designed to help a busines
 3. View charts in `.png` files or inside the notebook  
 
 ## Author
-- Name: Your Name  
+- Name: shaik ammaji
 - Track: Data Science & Analytics – DS  
